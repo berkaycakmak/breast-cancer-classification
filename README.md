@@ -1,6 +1,6 @@
 # breast-cancer-classification
 
-##Breast cancer classification with KNN, PCA and NCA
+## Breast cancer classification with KNN, PCA and NCA
 
 ### Introduction
 
